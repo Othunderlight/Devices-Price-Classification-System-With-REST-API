@@ -106,7 +106,7 @@ The API includes an admin interface with the following features:
 - Search functionality by ID
 
 ### Credentials
-- **url endpoint** admin/
+- **url endpoint:** admin/
 - **Username:** admin
 - **Password:** admin
 

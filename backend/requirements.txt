@@ -1,0 +1,9 @@
+Django
+django-cors-headers
+django-import-export
+djangorestframework
+joblib
+numpy
+pandas
+scikit-learn
+
