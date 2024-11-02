@@ -109,13 +109,10 @@ The machine learning component of the project classifies mobile device prices ba
 - **Algorithm**: Logistic Regression
 - **Performance**: Achieved 97% accuracy on test data with an average confidence score of 0.92.
 
-### Feature Analysis
-Key insights include:
-- RAM shows a strong positive correlation with price.
-- Battery power has minimal impact on pricing.
-
 ### Model Persistence
 - The model and scaler are saved using joblib for future predictions.
+- [Best Model](algorithm/best_model.pkl)
+- [Standard Scaler](algorithm/standard_scaler.pkl)
 
 ## Conclusion
 This project provides a comprehensive solution for mobile device price classification, integrating a robust API with a powerful machine learning model. The system is designed to assist sellers in accurately pricing their products based on detailed specifications.
