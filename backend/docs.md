@@ -6,6 +6,26 @@ This API provides endpoints to manage and predict mobile phone prices based on t
 ## Base URL
 http://your-domain.com/ or http://localhost:8000/
 
+# Mobile Phone Price Prediction API Documentation
+
+## Overview
+This API provides endpoints to manage and predict mobile phone prices based on their specifications. It allows you to create and retrieve mobile phone records, as well as predict price ranges for existing devices.
+
+## Folder Structure
+
+### ai_models
+- **Description:** This folder stores the saved algorithms used for price prediction. It contains the trained models that can be utilized for making predictions based on mobile phone specifications.
+
+### drf
+- **Description:** This is the base Django project folder. It contains the core settings and configurations necessary for running the Django application, including middleware, URL routing, and installed apps.
+
+### mobile_pred
+- **Description:** This folder contains the Django app specifically designed for mobile phone price prediction. It includes the models, views, serializers, and other components necessary for handling mobile phone data and predictions.
+
+## Base URL
+http://your-domain.com/ or http://localhost:8000/
+
+
 ## Endpoints
 
 ### 1. List/Create Mobile Phones
