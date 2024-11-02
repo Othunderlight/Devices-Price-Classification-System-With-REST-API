@@ -3,8 +3,6 @@
 ## Overview
 This API provides endpoints to manage and predict mobile phone prices based on their specifications. It allows you to create and retrieve mobile phone records, as well as predict price ranges for existing devices.
 
-## Base URL
-http://your-domain.com/ or http://localhost:8000/
 
 # Mobile Phone Price Prediction API Documentation
 
