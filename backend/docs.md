@@ -104,7 +104,9 @@ The API includes an admin interface with the following features:
 - List display showing ID, price range, battery power, RAM, and internal memory
 - Filtering by price range, 4G, 3G, WiFi, and touch screen
 - Search functionality by ID
-- credintials: username: admin | password: admin
+### Credentials
+- **Username:** admin
+- **Password:** admin
 
 
 ## Notes
